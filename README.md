@@ -2,13 +2,13 @@
 " />  
   
 
-### <div align="right">I'm Thomas, a full-stack developer from Germany  🚀</div>  
+### I'm Thomas, a full-stack developer from Germany  🚀  
   
 
-<div align="center">🦾 I’m currently learning Phaser and Next.JS</div>  
+🦾 I’m currently learning Phaser and Next.JS  
   
 
-<div align="center">⚡ Fun fact: I can solve a Rubik's Cube in under 30s</div>  
+⚡ Fun fact: I can solve a Rubik's Cube in under 30s  
   
 
 <br/>  
