@@ -1,22 +1,3 @@
-<img src="https://i.ibb.co/GdQJ3K9/61e6316d104849a0287894b2b5b05763-1.gif" align="left" height="120" width="130
-" />  
-  
-
-### I'm Thomas, a full-stack developer from Germany  🚀  
-  
-
-🦾 I’m currently learning Phaser and Next.JS  
-  
-
-⚡ Fun fact: I can solve a Rubik's Cube in under 30s  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
